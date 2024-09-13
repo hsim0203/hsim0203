@@ -129,7 +129,7 @@ Here are some ideas to get you started:
 ### **[스프링부트 수어탐지 웹사이트](https://github.com/hsim0203/Spring-Boot-Sign-Language-Recognition)**
 프로젝트 기간 : 2024.07.15 ~ 2024.07.29
 - **프로젝트 인원 :** 개인 프로젝트
-- **GitHub Repository :** [https://github.com/hsim0203/Email-Con-Work](https://github.com/hsim0203/Spring-Boot-Sign-Language-Recognition)
+- **GitHub Repository :** [https://github.com/hsim0203/Spring-Boot-Sign-Language-Recognition](https://github.com/hsim0203/Spring-Boot-Sign-Language-Recognition)
   
 - 이클립스 자바 콘솔환경에서의 이메일 시스템 구축 프로젝트
 - **개요 및 목적**
