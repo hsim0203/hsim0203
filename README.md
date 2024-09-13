@@ -125,31 +125,22 @@ Here are some ideas to get you started:
     - ORACLE 페이징기능을 통한 메일 페이징
 
 <hr>
-
+<!--
 ### **[스프링부트 수어탐지 웹사이트](https://github.com/hsim0203/Spring-Boot-Sign-Language-Recognition)**
 프로젝트 기간 : 2024.07.15 ~ 2024.07.29
 - **프로젝트 인원 :** 개인 프로젝트
 - **GitHub Repository :** [https://github.com/hsim0203/Spring-Boot-Sign-Language-Recognition](https://github.com/hsim0203/Spring-Boot-Sign-Language-Recognition)
   
-- 이클립스 자바 콘솔환경에서의 이메일 시스템 구축 프로젝트
+- 
 - **개요 및 목적**
-    - 프로젝트의 진행과정 파악
-    - JAVA 프로그래밍 실력 향상
-    - DB설계 및 제작 실력 향상
+    - 
 - **세부기능**
-    - 로그인 및 회원가입, 아이디 중복 시 회원가입 재시도
-    - 메일함 : 전체 메일함, 수신 메일함, 송신 메일함 분류
-    - 휴지통 : 휴지통 메일 조회, 상세보기, 영구삭제
-    - 메일 수신 또는 송신날자 최신순으로 조회 및 넘버링
-    - 메일 작성 및 전송
-    - 메일 삭제 시 휴지통 이동
+    - 
 - **보완할점**
-    - 자바 콘솔환경의 한계점(기능이나 메일 선택시 기능번호를 일일히 입력 등)
-    - 회원가입중 아이디 중복시 중복체크시점이 뒤에있어 실패시 회원정보를 다시 작성해야함
-    - ORACLE 페이징기능을 통한 메일 페이징
+    - 
 
 <hr>
-
+-->
 Feel free to check out more of my projects in the repositories!
 <!--
 ---
