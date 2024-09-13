@@ -61,27 +61,71 @@ Here are some ideas to get you started:
 - **GitHub Repository :** [https://github.com/water4360/web-Hari-Bank](https://github.com/hsim0203/ShoppingMall
   
 - 상품 카테고리별 검색 및 장바구니, 주문등의 기능을 갖춘 쇼핑몰 프로젝트
+- **개요 및 목적**
+    - JSP, HTML 등의 웹페이지 코딩 기술능력 향상
+    - MVC 모델에 대한 지식 및 이해도 향상
+    - 다음 주소와 같은 API 활용방법 익히기
+    - AJAX를 통한 비동기 통신방법 익히기
 - **세부기능**
-    - 회원가입 및 로그인 - 회원가입시 다음주소api를 통한 주소 조회 및 등록, AJAX를 통한 중복아이디 체크기능
+    - 회원가입 및 로그인 : 회원가입시 다음주소api를 통한 주소 조회 및 등록, AJAX를 통한 중복아이디 체크기능
     - 메인페이지(신규 등록상품 추천) 및 제품 카테고리별 페이지
-    - 상품 상세페이지 - 상품 상세정보,선택한 수량만큼 장바구니 담기 기능
-    - 장바구니 페이지 - 장바구니에 담긴 품목 및 수량, 가격 확인, 담긴 항목 삭제, 선택한 항목 주문
-    - 결제 페이지 - 결제시 주소 변경(기존 주소 or 새로운 주소 등록)
+    - 상품 상세페이지 : 상품 상세정보,선택한 수량만큼 장바구니 담기 기능
+    - 장바구니 페이지 : 장바구니에 담긴 품목 및 수량, 가격 확인, 담긴 항목 삭제, 선택한 항목 주문
+    - 결제 페이지 : 결제시 주소 변경(기존 주소 or 새로운 주소 등록)
     - 관리자 상품 추가
-    
 - **보완할점**
     - 상품 이름일부 검색등의 직접 검색 기능
     - 카테고리별 상품창의 페이징 기능
     - 상품 삭제 등의 관리자 기능 추가 및 관리자페이지 추가
-    
-    
-    
+            
 <hr>
 
+### **[DogWorld](https://github.com/JungmiP/dogWorld)**
+프로젝트 기간 : 2024.07.08 ~ 2024.07.12
+- **프로젝트 인원 :** 3명
+- **담당 업무 :** 스프링부트 통합페이지 코딩
+- **GitHub Repository :** [https://github.com/hsim0203/ShoppingMall](https://github.com/JungmiP/dogWorld)
+  
+- 각자 개인프로젝트로 진행하였던 애견용품 쇼핑몰, 애견유치원, 동물병원의 통합페이지
+- **개요 및 목적**
+    - 개인프로젝트들을 통합하는 프로젝트
+    - 사이트 통합로그인 기능 구현
+    - DBLink등을 사용한 DB테이블 공유
+- **세부기능**
+    - DBLink를 통한 회원, 애견정보 테이블 통합
+    - 통합페이지로서 통합로그인 기능(접속했던 사이트 url 저장 및 로그인 후 돌아감)
+    - 마이페이지 : 회원정보 조회 및 수정, 수정시 비밀번호 재확인
+    - 애견정보 : 애견정보 조회, 등록, 수정
+- **보완할점**
+    - 통합로그인 기능 : 현제 구현된 방식(쿠키, 파라미터)방식의 보안성 문제
+    - 통합페이지 자체의 기능 부족
 
-- **[Mydog 애견쇼핑몰](https://github.com/hsim0203/ShoppingMall)**: Brief description of what the project is about.
-- **[Project 2](Link to Project 2)**: Brief description of what the project is about.
-- **[Project 3](Link to Project 3)**: Brief description of what the project is about.
+<hr>
+
+### **[자바 콘솔환경 이메일시스템](https://github.com/hsim0203/Email-Con-Work)**
+프로젝트 기간 : 2024.04.18 ~ 2024.04.25
+- **프로젝트 인원 :** 개인 프로젝트
+- **GitHub Repository :** [https://github.com/JungmiP/dogWorld](https://github.com/hsim0203/Email-Con-Work)
+  
+- 이클립스 자바 콘솔환경에서의 이메일 시스템 구축 프로젝트
+- **개요 및 목적**
+    - 프로젝트의 진행과정 파악
+    - JAVA 프로그래밍 실력 향상
+    - DB설계 및 제작 실력 향상
+- **세부기능**
+    - 로그인 및 회원가입, 아이디 중복 시 회원가입 재시도
+    - 메일함 : 전체 메일함, 수신 메일함, 송신 메일함 분류
+    - 휴지통 : 휴지통 메일 조회, 상세보기, 영구삭제
+    - 메일 수신 또는 송신날자 최신순으로 조회 및 넘버링
+    - 메일 작성 및 전송
+    - 메일 삭제 시 휴지통 이동
+- **보완할점**
+    - 자바 콘솔환경의 한계점(기능이나 메일 선택시 기능번호를 일일히 입력 등)
+    - 회원가입중 아이디 중복시 중복체크시점이 뒤에있어 실패시 회원정보를 다시 작성해야함
+    - ORACLE 페이징기능을 통한 메일 페이징
+
+<hr>
+
 
 Feel free to check out more of my projects in the repositories!
 <!--
