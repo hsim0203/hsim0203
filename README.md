@@ -141,7 +141,7 @@ Here are some ideas to get you started:
 
 <hr>
 -->
-Feel free to check out more of my projects in the repositories!
+
 <!--
 ---
 
