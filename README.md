@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ### **[Mydog 애견 쇼핑몰](https://github.com/hsim0203/ShoppingMall)**
 프로젝트 기간 : 2024.06.26 ~ 2024.07.04
 - **프로젝트 인원 :** 개인 프로젝트
-- **GitHub Repository :** [https://github.com/water4360/web-Hari-Bank](https://github.com/hsim0203/ShoppingMall
+- **GitHub Repository :** [https://github.com/hsim0203/ShoppingMall](https://github.com/hsim0203/ShoppingMall)
   
 - 상품 카테고리별 검색 및 장바구니, 주문등의 기능을 갖춘 쇼핑몰 프로젝트
 - **개요 및 목적**
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 프로젝트 기간 : 2024.07.08 ~ 2024.07.12
 - **프로젝트 인원 :** 3명
 - **담당 업무 :** 스프링부트 통합페이지 코딩
-- **GitHub Repository :** [https://github.com/hsim0203/ShoppingMall](https://github.com/JungmiP/dogWorld)
+- **GitHub Repository :** [https://github.com/JungmiP/dogWorld](https://github.com/JungmiP/dogWorld)
   
 - 각자 개인프로젝트로 진행하였던 애견용품 쇼핑몰, 애견유치원, 동물병원의 통합페이지
 - **개요 및 목적**
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 ### **[자바 콘솔환경 이메일시스템](https://github.com/hsim0203/Email-Con-Work)**
 프로젝트 기간 : 2024.04.18 ~ 2024.04.25
 - **프로젝트 인원 :** 개인 프로젝트
-- **GitHub Repository :** [https://github.com/JungmiP/dogWorld](https://github.com/hsim0203/Email-Con-Work)
+- **GitHub Repository :** [https://github.com/hsim0203/Email-Con-Work](https://github.com/hsim0203/Email-Con-Work)
   
 - 이클립스 자바 콘솔환경에서의 이메일 시스템 구축 프로젝트
 - **개요 및 목적**
@@ -126,6 +126,29 @@ Here are some ideas to get you started:
 
 <hr>
 
+### **[스프링부트 수어탐지 웹사이트](https://github.com/hsim0203/Spring-Boot-Sign-Language-Recognition)**
+프로젝트 기간 : 2024.07.15 ~ 2024.07.29
+- **프로젝트 인원 :** 개인 프로젝트
+- **GitHub Repository :** [https://github.com/hsim0203/Email-Con-Work](https://github.com/hsim0203/Spring-Boot-Sign-Language-Recognition)
+  
+- 이클립스 자바 콘솔환경에서의 이메일 시스템 구축 프로젝트
+- **개요 및 목적**
+    - 프로젝트의 진행과정 파악
+    - JAVA 프로그래밍 실력 향상
+    - DB설계 및 제작 실력 향상
+- **세부기능**
+    - 로그인 및 회원가입, 아이디 중복 시 회원가입 재시도
+    - 메일함 : 전체 메일함, 수신 메일함, 송신 메일함 분류
+    - 휴지통 : 휴지통 메일 조회, 상세보기, 영구삭제
+    - 메일 수신 또는 송신날자 최신순으로 조회 및 넘버링
+    - 메일 작성 및 전송
+    - 메일 삭제 시 휴지통 이동
+- **보완할점**
+    - 자바 콘솔환경의 한계점(기능이나 메일 선택시 기능번호를 일일히 입력 등)
+    - 회원가입중 아이디 중복시 중복체크시점이 뒤에있어 실패시 회원정보를 다시 작성해야함
+    - ORACLE 페이징기능을 통한 메일 페이징
+
+<hr>
 
 Feel free to check out more of my projects in the repositories!
 <!--
