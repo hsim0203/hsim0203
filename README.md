@@ -141,9 +141,9 @@ Here are some ideas to get you started:
 
 - FLASK 및 LSTM 모델을 사용해 수어탐지 RestServer를 만들고 이를 통해 스프링 웹 페이지 캠화면에서 수어탐지를 하는 프로젝트입니다
 - **개요 및 목적**
-    - Flask를 활용한 RestServer 제작방법 학습
+    - Flask를 활용한 RestServer 구현방법 학습
     - LSTM, YOLO 등의 머신러닝 학습
-    - Spring Boot와 RestServer 간의 데이터 전송 방법 학습
+    - Spring Boot와 RestServer 간의 통신 방법 학습
 - **세부기능**
     - 스프링 웹페이지 화면에서 캠을 통한 이미지 저장
     - RestServer로 이미지 데이터를 JSON 객채로 변환 후 전송
