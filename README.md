@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 프로젝트 기간 : 2024.06.26 ~ 2024.07.04
 - **프로젝트 인원 :** 개인 프로젝트
 - **GitHub Repository :** [https://github.com/hsim0203/ShoppingMall](https://github.com/hsim0203/ShoppingMall)
+
 `JAVA`, `Oracle`, `JavaScript`, `Html`, `CSS3`, `Jquery`, `MyBatis`, `jsp`
 
 - 상품 카테고리별 검색 및 장바구니, 주문등의 기능을 갖춘 쇼핑몰 프로젝트
@@ -86,6 +87,7 @@ Here are some ideas to get you started:
 - **프로젝트 인원 :** 3명
 - **담당 업무 :** 스프링부트 통합페이지 코딩
 - **GitHub Repository :** [https://github.com/JungmiP/dogWorld](https://github.com/JungmiP/dogWorld)
+  
 `Spring Boot`, `Oracle`, `JAVA`, `Html`, `CSS3`
   
 - 각자 개인프로젝트로 진행하였던 애견용품 쇼핑몰, 애견유치원, 동물병원의 통합페이지
@@ -108,6 +110,7 @@ Here are some ideas to get you started:
 프로젝트 기간 : 2024.04.18 ~ 2024.04.25
 - **프로젝트 인원 :** 개인 프로젝트
 - **GitHub Repository :** [https://github.com/hsim0203/Email-Con-Work](https://github.com/hsim0203/Email-Con-Work)
+  
 `Java`, `Oracle`
   
 - 이클립스 자바 콘솔환경에서의 이메일 시스템 구축 프로젝트
@@ -133,6 +136,7 @@ Here are some ideas to get you started:
 프로젝트 기간 : 2024.07.15 ~ 2024.07.29
 - **프로젝트 인원 :** 개인 프로젝트
 - **GitHub Repository :** [https://github.com/hsim0203/Spring-Boot-Sign-Language-Recognition](https://github.com/hsim0203/Spring-Boot-Sign-Language-Recognition)
+  
 `Spring Boot`, `Python`, ``, `mediapipe`, `Flask`, `OpenCV`, `LSTM`  
 
 - FLASK 및 LSTM 모델을 사용해 수어탐지 RestServer를 만들고 이를 통해 스프링 웹 페이지 캠화면에서 수어탐지를 하는 프로젝트입니다
