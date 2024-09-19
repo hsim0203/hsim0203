@@ -1,21 +1,3 @@
-<!--
-## Hi there 👋
--->
-<!--
-**hsim0203/hsim0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there 👋, I'm ImHyunSoo!
 
 게임을 좋아하고, 대화하는것을 좋아하는 개발자 임현수입니다..
@@ -155,35 +137,3 @@ Here are some ideas to get you started:
     - M동작의 정확도가 낮게 측정
 
 <hr>
-
-
-<!--
----
-
-### 📈 GitHub Stats:
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
----
-
-### 📝 Latest Blog Posts:
-
-- **[Blog Post 1](Link to Blog Post 1)**
-- **[Blog Post 2](Link to Blog Post 2)**
-- **[Blog Post 3](Link to Blog Post 3)**
-
-*Check out my [blog](Your Blog Link) for more insights!*
-
----
-
-### 📫 Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](Your LinkedIn Profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](Your Twitter Profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YourEmail)
-
----
-
-⭐️ From [Your Name](https://github.com/YourGitHubUsername)
--->
