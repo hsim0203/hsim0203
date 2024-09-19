@@ -137,7 +137,7 @@ Here are some ideas to get you started:
 - **프로젝트 인원 :** 개인 프로젝트
 - **GitHub Repository :** [https://github.com/hsim0203/Spring-Boot-Sign-Language-Recognition](https://github.com/hsim0203/Spring-Boot-Sign-Language-Recognition)
   
-`Spring Boot`, `Python`, ``, `mediapipe`, `Flask`, `OpenCV`, `LSTM`  
+`Spring Boot`, `Python`, `mediapipe`, `Flask`, `OpenCV`, `LSTM`  
 
 - FLASK 및 LSTM 모델을 사용해 수어탐지 RestServer를 만들고 이를 통해 스프링 웹 페이지 캠화면에서 수어탐지를 하는 프로젝트입니다
 - **개요 및 목적**
