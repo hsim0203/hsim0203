@@ -149,6 +149,8 @@ Here are some ideas to get you started:
     - RestServer로 이미지 데이터를 JSON 객채로 변환 후 전송
     - 전송받은 JSON객체를 이미지 변환 후 LSTM모델을 통해 수어 정확도 예측
     - Spring Boot로 정확도 반환 및 캠화면에 표시
+![수어탐지](https://github.com/user-attachments/assets/1898f4b7-d46a-428d-a7de-2aa1e8d224f1)
+
 - **보완할점**
     - M동작의 정확도가 낮게 측정
 
