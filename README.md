@@ -41,6 +41,33 @@
 
 ## 🚀 My Projects:
 
+### **[배리어프리 키오스크](https://github.com/hsim0203/kiosk_project)**
+프로젝트 기간 : 2024.10.01 ~ 2024.11.15
+- **프로젝트 인원 :** 3명
+- **GitHub Repository :** [https://github.com/hsim0203/kiosk_project](https://github.com/hsim0203/kiosk_project)
+
+`Python`, `Tensorflow`, `Whisper`, `LSTM`, `Mediapipe`, `Flask`, `Unity`
+
+- 편리한 키오스크 사용을 위한 손동작 인식, 음성인식 키오스크
+- **개요 및 목적**
+    - 키오스크 사용이 힘들거나 불편한 사람들을 위한 배리어 프리 키오스크 제작
+    - 딥러닝 모델에 대한 학습 및 이해도 향상
+    - 백앤드, 프론트앤드를 확실히 구분해 개발하는 방법 학습
+- **세부기능**
+    음성인식
+    - Unity로부터 음성파일을 전송받은 후 Whisper를 사용해 text로 변경
+    - Whisper를 통해 변환된 text를 seq2seq모델에 입력 시퀀스로 사용해 출력 시퀀스 출력
+    - 출력 시퀀스를 답변으로 하여 Unity로 넘겨주고 tts처리를 통해 대화형 키오스크 구현
+    손동작 인식
+    - 손동작 이미지를 전송 받아 학습된 LSTM 모델을 통해 손동작을 판별
+    - 판별된 손동작의 결과(손동작, 정확도)를 JSON형태로 Unity로 전송
+    - Unity에서 Flask로부터 전송받은 JSON 객체를 통해 동작
+- **보완할점**
+    - Seq2Seq 모델 학습을 위한 데이터셋 부족(소상공인 질의-응답 데이터를 사용)
+    - Seq2Seq모델 학습시 mecab과 같은 형태소분석을 추가, attention이나 transformor 모델을 사용하여 성능 향상 가능
+            
+<hr>
+
 ### **[Mydog 애견 쇼핑몰](https://github.com/hsim0203/ShoppingMall)**
 프로젝트 기간 : 2024.06.26 ~ 2024.07.04
 - **프로젝트 인원 :** 개인 프로젝트
