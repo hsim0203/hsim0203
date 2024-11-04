@@ -46,7 +46,7 @@
 - **프로젝트 인원 :** 2명
 - **GitHub Repository :** [https://github.com/hsim0203/kiosk_project](https://github.com/hsim0203/kiosk_project)
 
-`Python`, `Tensorflow`, `Whisper`, KNN,~~`LSTM`~~, `Mediapipe`, `Flask`, `Unity`
+`Python`, `Tensorflow`, `Whisper`, `KNN`, `Sequence-to-Sequence`, `Mediapipe`, `Flask` ,`Unity`,~~`LSTM`~~
 
 - 편리한 키오스크 사용을 위한 손동작 인식, 음성인식 키오스크
 - **개요 및 목적**
