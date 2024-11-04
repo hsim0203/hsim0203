@@ -41,9 +41,9 @@
 
 ## 🚀 My Projects:
 
-### **[배리어프리 키오스크](https://github.com/hsim0203/kiosk_project)**
-프로젝트 기간 : 2024.10.01 ~ 2024.11.15
-- **프로젝트 인원 :** 3명
+### **[접근성 완화를 위한 손동작 및 음성인식 배리어프리 키오스크](https://github.com/hsim0203/kiosk_project)**
+프로젝트 기간 : 2024.10.01 ~ 2024.11.08
+- **프로젝트 인원 :** 2명
 - **GitHub Repository :** [https://github.com/hsim0203/kiosk_project](https://github.com/hsim0203/kiosk_project)
 
 `Python`, `Tensorflow`, `Whisper`, `LSTM`, `Mediapipe`, `Flask`, `Unity`
