@@ -19,13 +19,13 @@
 ## 🛠️ My Tech Stack:
 
 - **Languages**: 
-  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-000000?style=flat&logo=C&logoColor=white)
 
 - **Frontend**:
   - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 
 - **Backend**:
-  - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![JSP](https://img.shields.io/badge/-JSP-323330?style=flat&logo=java&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![C](https://img.shields.io/badge/C-000000?style=flat&logo=C&logoColor=white)
+  - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![JSP](https://img.shields.io/badge/-JSP-323330?style=flat&logo=java&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 - **Databases**:
   - ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
