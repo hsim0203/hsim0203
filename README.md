@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me:
-학점은행제를 통해 컴퓨터공학을 전공중이고 <br> 현재는 폴리텍대학 하이테크과정 인공지능소프트웨어 학과에서 웹 프로그래밍을 배우고 있습니다.
+학점은행제를 통해 컴퓨터공학을 전공중이고 <br> 현재는 폴리텍대학 하이테크과정 인공지능소프트웨어 학과에서 웹 프로그래밍을 배웠습니다.
 <!--
 - 🔭 I’m currently working on **[Project Name](Link to Project)**
 - 🌱 I’m currently learning **[Technology or Tool]**
